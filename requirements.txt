@@ -1,0 +1,8 @@
+pip~=24.0
+dataclasses~=0.6
+wheel~=0.45.1
+pillow~=11.0.0
+setuptools~=69.1.0
+typing_extensions~=4.12.2
+PyAutoGUI~=0.9.54
+psutil~=6.1.0
